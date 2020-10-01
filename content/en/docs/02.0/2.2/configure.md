@@ -308,6 +308,6 @@ The needed resource files are available inside the folder *manifests/02.0/2.2/*.
 
 When you were not successful, you can update your project with the solution by executing this command:
 
-```s
+```BASH
 oc apply -f manifests/02.0/2.2/
 ```
